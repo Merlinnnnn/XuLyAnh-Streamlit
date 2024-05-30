@@ -1,0 +1,10 @@
+grasshoppers
+butterfly
+cicada
+dragonfly
+spider
+snail
+scorpion
+bees
+moth
+beetle
